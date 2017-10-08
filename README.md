@@ -12,7 +12,7 @@
 4. Open a terminal, input "clang-format -help", make sure environment variables has been added successfully.
 5. Download clang-format_en.bat(english) or clang-format_ch.bat(chinese).
 6. copy clang-format_xx.bat to your project directory.
-7. double click clang-format_xx.bat to run, this clang-format_xx.bat script will format all the .c .cpp .h .hpp code recursively.
+7. double click clang-format_xx.bat to run, this clang-format_xx.bat script will format all the __.c__ __.cpp__ __.h__ __.hpp__ code recursively.
 8. before format your code, please make a backup of your code. you can also modify the script to support other programing language, choose a coding style.
 
 ## 0x02 : For linux
