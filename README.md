@@ -2,11 +2,11 @@
 
 ## 0x00 : Format your code with [Clang-Format](http://clang.llvm.org/docs/ClangFormat.html)
 
-* Clang-format is a part of Clang.
+* Clang-format is a part of Clang, [Clang-wikipedia](https://en.wikipedia.org/wiki/Clang).
 * Clang-format can be used to format C/C++/Obj-C code.
 
 ## 0x01 : For windows
-1. Download [Clang](http://releases.llvm.org/download.html).
+1. Download [Clang download](http://releases.llvm.org/download.html).
 2. Unzip to a directory.
 3. Add environment variables : clang/tools/clang-format.
 4. Open a terminal, input "clang-format -help", make sure environment variables has been added successfully.
