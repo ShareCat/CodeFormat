@@ -4,7 +4,7 @@
 
 * Clang-format is a part of Clang, [Clang-Wikipedia](https://en.wikipedia.org/wiki/Clang).
 * Clang-format can be used to format C/C++/Obj-C code.
-![](./test/before format.png)
+<img src="./test/before format.png" width = "581" height = "494" alt="before format.png" align=center />
 
 ## 0x01 : For windows
 1. [Download Clang](http://releases.llvm.org/download.html), choose from __Pre-Built Binaries__.
