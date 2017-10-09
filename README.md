@@ -6,8 +6,8 @@
 * Clang-format can be used to format C/C++/Obj-C code.
 
 ## 0x01 : For windows
-1. [Download Clang](http://releases.llvm.org/download.html).
-2. Unzip to a directory.
+1. [Download Clang](http://releases.llvm.org/download.html), choose from Pre-Built Binaries.
+2. Install Clang.
 3. Add environment variables : clang/tools/clang-format.
 4. Open a terminal, input "clang-format -help", make sure environment variables has been added successfully.
 5. Download clang-format_en.bat(english) or clang-format_ch.bat(chinese).
