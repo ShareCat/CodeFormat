@@ -4,7 +4,7 @@
 
 * Clang-format is a part of Clang, [Clang-Wikipedia](https://en.wikipedia.org/wiki/Clang).
 * Clang-format can be used to format C/C++/Obj-C code.
-<img src="./test/1.png" width = "581" height = "494" alt="1.png" align=center />
+<img src="./test/1.PNG" width = "581" height = "494" alt="1.PNG" align=center />
 
 ## 0x01 : For windows
 1. [Download Clang](http://releases.llvm.org/download.html), choose from __Pre-Built Binaries__.
