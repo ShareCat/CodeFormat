@@ -6,6 +6,7 @@
 * Clang-format can be used to format C/C++/Obj-C code.
 * Before we use Clang-format:
 <img src="./test/1.PNG" width = "581" height = "494" alt="1.PNG" align=center />
+
 * After we used Clang-format:
 <img src="./test/2.PNG" width = "509" height = "489" alt="2.PNG" align=center />
 
