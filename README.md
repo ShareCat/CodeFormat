@@ -19,6 +19,6 @@
 6. Copy clang-format_xx.bat to your project directory.
 7. Before format your code, please make a backup of your code!!! 
 8. Double click clang-format_xx.bat to run, this clang-format_xx.bat script will format all the __.c__ __.cpp__ __.h__ __.hpp__ code recursively.
-9. You can also modify the script to support other programing language, choose a coding style and so on..
+9. You can also modify the script to support other programing language, choose a [coding style](http://clang.llvm.org/docs/ClangFormatStyleOptions.html) and so on..
 
 ## 0x02 : For linux
