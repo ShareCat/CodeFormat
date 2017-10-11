@@ -2,7 +2,7 @@
 
 ## 0x00 : Format your code with [Clang-Format](http://clang.llvm.org/docs/ClangFormat.html)
 
-* Clang-format is a part of Clang, see [Clang-Wikipedia](https://en.wikipedia.org/wiki/Clang).
+* Clang-format is a part of Clang, read [Clang-Wikipedia](https://en.wikipedia.org/wiki/Clang).
 * Clang-format can be used to format C/C++/Obj-C code.
 * Before we use Clang-format:
 <img src="./test/1.PNG" width = "581" height = "494" alt="1.PNG" align=center />
