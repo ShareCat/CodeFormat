@@ -1,6 +1,6 @@
 # CodeFormat
 
-## 0x00 : Format your code with [Clang-Format](http://clang.llvm.org/docs/ClangFormat.html)
+## 0x00 : Getting a beautiful coding style with [Clang-Format](http://clang.llvm.org/docs/ClangFormat.html)
 
 * Clang-format is a part of Clang, read [Clang-Wikipedia](https://en.wikipedia.org/wiki/Clang).
 * Clang-format can be used to format C/C++/Obj-C code.
